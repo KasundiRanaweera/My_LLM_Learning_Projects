@@ -1,0 +1,7 @@
+openai
+Python-dotenv       
+requests
+beautifulsoup4
+tiktoken
+ipython
+ipykernel
